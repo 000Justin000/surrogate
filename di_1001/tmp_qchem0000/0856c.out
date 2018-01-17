@@ -1,0 +1,376 @@
+mFile = /opt/software/qchem/qchem-5.0.1//bin/mpi/machines
+Process 0 of 1 is on vega02.cac.cornell.edu - thread support 0
+initial socket setup ...start
+initial socket setup ...done 
+now start server 0 ... 
+vega02.cac.cornell.edu 10.84.3
+Q-Chem Developer Version! Running on 10.84.3.*
+                  Welcome to Q-Chem
+     A Quantum Leap Into The Future Of Chemistry
+
+
+ Q-Chem 5.0, Q-Chem, Inc., Pleasanton, CA (2017)
+
+ Yihan Shao,  Zhengting Gan,  E. Epifanovsky,  A. T. B. Gilbert,  M. Wormit,  
+ J. Kussmann,  A. W. Lange,  A. Behn,  Jia Deng,  Xintian Feng,  D. Ghosh,  
+ M. Goldey,  P. R. Horn,  L. D. Jacobson,  I. Kaliman,  T. Kus,  A. Landau,  
+ Jie Liu,  E. I. Proynov,  R. M. Richard,  R. P. Steele,  E. J. Sundstrom,  
+ H. L. Woodcock III,  P. M. Zimmerman,  D. Zuev,  B. Albrecht,  E. Alguire,  
+ S. A. Baeppler,  Z. Benda,  Y. A. Bernard,  E. J. Berquist,  K. B. Bravaya,  
+ D. Casanova,  Chun-Min Chang,  Yunqing Chen,  A. Chien,  K. D. Closser,  
+ M. P. Coons,  S. Dasgupta,  M. Diedenhofen,  Hainam Do,  R. G. Edgar,  
+ Po-Tung Fang,  S. Fatehi,  Qingguo Feng,  Qinghui Ge,  A. Ghysels,  
+ J. Gomes,  J. Gonthier,  A. Gunina,  M. W. D. Hanson-Heine,  
+ P. H. P. Harbach,  A. W. Hauser,  J. E. Herr,  E. G. Hohenstein,  
+ Z. C. Holden,  Kerwin Hui,  T.-C. Jagau,  Hyunjun Ji,  B. Kaduk,  
+ K. Khistyaev,  Jaehoon Kim,  P. Klunzinger,  K. Koh,  D. Kosenkov,  
+ T. Kowalczyk,  C. M. Krauter,  A. Kunitsa,  Ka Un Lao,  A. Laurent,  
+ K. V. Lawler,  Joonho Lee,  D. Lefrancois,  S. Lehtola,  D. S. Levine,  
+ Yi-Pei Li,  You-Sheng Lin,  Fenglai Liu,  E. Livshits,  A. Luenser,  
+ P. Manohar,  E. Mansoor,  S. F. Manzer,  Shan-Ping Mao,  Yuezhi Mao,  
+ N. Mardirossian,  A. V. Marenich,  L. A. Martinez-Martinez,  S. A. Maurer,  
+ N. J. Mayhall,  S. C. McKenzie,  J.-M. Mewes,  A. F. Morrison,  K. Nanda,  
+ T. S. Nguyen-Beck,  R. Olivares-Amaya,  J. A. Parkhill,  T. M. Perrine,  
+ F. Plasser,  S. Prager,  A. Prociuk,  D. R. Rehn,  F. Rob,  M. Schneider,  
+ N. Sergueev,  S. M. Sharada,  S. Sharma,  D. W. Small,  T. Stauch,  
+ T. Stein,  Yu-Chuan Su,  A. J. W. Thom,  T. Tsuchimochi,  L. Vogt,  
+ O. Vydrov,  M. A. Watson,  J. Wenzel,  M. de Wergifosse,  T. A. Wesolowski,  
+ A. White,  J. Witte,  A. Yamada,  Jun Yang,  K. Yao,  S. Yeganeh,  
+ S. R. Yost,  Zhi-Qiang You,  A. Zech,  Igor Ying Zhang,  Xing Zhang,  
+ Yan Zhao,  Ying Zhu,  B. R. Brooks,  G. K. L. Chan,  C. J. Cramer,  
+ M. S. Gordon,  W. J. Hehre,  A. Klamt,  M. W. Schmidt,  C. D. Sherrill,  
+ D. G. Truhlar,  A. Aspuru-Guzik,  R. Baer,  A. T. Bell,  N. A. Besley,  
+ Jeng-Da Chai,  A. Dreuw,  B. D. Dunietz,  T. R. Furlani,  Chao-Ping Hsu,  
+ Yousung Jung,  Jing Kong,  D. S. Lambrecht,  WanZhen Liang,  C. Ochsenfeld,  
+ V. A. Rassolov,  L. V. Slipchenko,  J. E. Subotnik,  T. Van Voorhis,  
+ J. M. Herbert,  A. I. Krylov,  P. M. W. Gill,  M. Head-Gordon
+
+ Contributors to earlier versions of Q-Chem not listed above: 
+ R. D. Adamson,  B. Austin,  J. Baker,  G. J. O. Beran,  K. Brandhorst,  
+ S. T. Brown,  E. F. C. Byrd,  A. K. Chakraborty,  C.-L. Cheng,  
+ Siu Hung Chien,  D. M. Chipman,  D. L. Crittenden,  H. Dachsel,  
+ R. A. DiStasio Jr.,  R. J. Doerksen,  A. D. Dutoi,  L. Fusti-Molnar,  
+ W. A. Goddard III,  A. Golubeva-Zadorozhnaya,  S. R. Gwaltney,  G. Hawkins,  
+ A. Heyden,  S. Hirata,  G. Kedziora,  F. J. Keil,  C. Kelley,  Jihan Kim,  
+ R. A. King,  R. Z. Khaliullin,  P. P. Korambath,  W. Kurlancheek,  
+ A. M. Lee,  M. S. Lee,  S. V. Levchenko,  Ching Yeh Lin,  D. Liotard,  
+ R. C. Lochan,  I. Lotan,  P. E. Maslen,  N. Nair,  D. P. O'Neill,  
+ D. Neuhauser,  E. Neuscamman,  C. M. Oana,  R. Olson,  B. Peters,  
+ R. Peverati,  P. A. Pieniazek,  Y. M. Rhee,  J. Ritchie,  M. A. Rohrdanz,  
+ E. Rosta,  N. J. Russ,  H. F. Schaefer III,  N. E. Schultz,  N. Shenvi,  
+ A. C. Simmonett,  A. Sodt,  D. Stuck,  K. S. Thanthiriwatte,  V. Vanovschi,  
+ Tao Wang,  A. Warshel,  C. F. Williams,  Q. Wu,  X. Xu,  W. Zhang
+
+ Please cite Q-Chem as follows:
+ Y. Shao et al., Mol. Phys. 113, 184-215 (2015)
+ DOI: 10.1080/00268976.2014.952696
+
+ Q-Chem 5.0.1 for Intel X86 EM64T Linux
+
+ Parts of Q-Chem use Armadillo 5.200.1 (Boston Tea Smuggler).
+ http://arma.sourceforge.net/
+
+ Q-Chem begins on Mon Jan 15 17:10:33 2018  
+
+Host: vega02.cac.cornell.edu
+0
+
+     Scratch files written to /scratch/jj585/SOT1001/0856c.save//
+ Parallel job on  1  processors
+
+Checking the input file for inconsistencies... 	...done.
+
+--------------------------------------------------------------
+User input:
+--------------------------------------------------------------
+$molecule
+0  1
+O -3.94934 -3.66094 2.70899
+C -3.26408 -4.56952 2.26188
+C -3.36658 -6.02376 2.66595
+C -2.08686 -6.8708 2.57268
+C -0.80792 -6.12782 2.25586
+O 0.22153 -6.64127 2.99209
+C 1.5107 -6.26247 2.49832
+C 2.21302 -5.35578 3.50371
+O 1.24009 -4.67256 4.30963
+C 0.11463 -5.37654 4.58693
+C -1.0351 -4.49998 5.0233
+C -2.42111 -4.97228 4.56047
+C -2.49829 -6.39886 4.0549
+O -2.04311 -6.80038 2.99369
+O -2.58498 -4.26236 1.12949
+O -3.74077 -8.35464 4.87111
+O 0.2382 -6.39674 5.27399
+C -4.44191 -9.50852 5.31236
+C -1.15296 -4.15498 6.52074
+C -1.8493 -2.80521 6.74056
+C -3.26359 -3.14771 6.33937
+C -3.0914 -4.65132 6.01669
+O -2.11961 -5.04442 6.96428
+H -0.75326 -3.53055 4.52578
+H -2.67371 -4.01102 4.24448
+H -0.17636 -4.17535 7.05129
+H -1.84636 -2.61047 7.83884
+H -1.40989 -1.92769 6.22156
+H -3.92403 -3.01435 7.22776
+H -3.69209 -2.56456 5.49486
+H -4.08975 -5.07553 6.21958
+O -0.62914 -5.53445 1.19637
+C -2.32708 -2.9862 0.67457
+C -4.56828 -6.54592 4.36954
+C -4.6042 -7.90632 2.98792
+C -2.93262 -9.00611 3.01793
+C -1.74187 -8.35068 4.43449
+O -2.86725 -7.09843 5.87565
+H -3.92629 -6.18085 1.69528
+H -2.16228 -7.43755 1.25817
+H -1.82838 -2.39861 1.47621
+H -5.40636 -5.85169 4.60021
+H -5.47122 -8.48266 3.36735
+H -5.1381 -7.80056 2.02547
+H -3.13715 -10.06008 3.30349
+H -2.49982 -9.27187 2.03984
+H -0.69993 -8.7068 4.58906
+H -3.26456 -2.48592 0.35773
+H -1.63206 -3.04886 -0.18829
+H -5.01285 -9.32473 6.23772
+H -3.63989 -10.23398 5.61913
+H -5.00876 -10.07011 4.5509
+H 2.76114 -6.02426 4.20383
+H 2.9632 -4.67304 3.05109
+H 1.51501 -5.68224 1.5524
+H 2.13053 -7.15591 2.27185
+$end
+
+$opt
+CONSTRAINT
+tors           1           2           3           4    -150.861
+tors           3           4           5           6    +140.575
+tors           4           5           6           7    +163.714
+tors           5           6           7           8    +113.443
+tors           6           7           8           9     -25.718
+tors           7           8           9          10     +34.147
+tors           8           9          10          11    -161.050
+tors           9          10          11          12    +144.843
+tors          11          12          13          14     -72.031
+ENDCONSTRAINT
+$end
+
+$rem
+JOBTYPE                   OPT
+METHOD                    B3LYP
+DFT_D                     d3_op
+BASIS                     STO-3G
+GEOM_OPT_MAX_CYCLES       100
+GEOM_OPT_TOL_GRADIENT     300
+GEOM_OPT_TOL_DISPLACEMENT 1200
+GEOM_OPT_TOL_ENERGY       100
+SYMMETRY                  False
+THRESH                    12
+SCF_CONVERGENCE           8
+MAX_SUB_FILE_NUM          128
+MEM_STATIC                400
+MEM_TOTAL                 4000
+$end
+--------------------------------------------------------------
+ Adding empirical dispersion correction 
+ ----------------------------------------------------------------
+ Doing -D3(op) with
+ s6 =   1.00000
+ s8 =   0.78311
+ a1 =   0.30000
+ a2 =   4.25000
+ n  =  10.00000
+ -D3 energy without 3body term =     -0.0950969931 hartrees
+ ----------------------------------------------------------------
+             Standard Nuclear Orientation (Angstroms)
+    I     Atom           X                Y                Z
+ ----------------------------------------------------------------
+    1      O       0.0778280232     0.2402316299    -3.1792191945
+    2      C       0.0697121447    -0.6799141108    -2.3740656784
+    3      C      -1.0108862305    -0.9344166836    -1.3463846071
+    4      C      -0.5901415296    -1.6318489336    -0.0423825035
+    5      C       0.8942255021    -1.8370267797     0.1641078915
+    6      O       1.2163200021    -1.6112904809     1.4720570780
+    7      C       2.4997634497    -2.1319701881     1.8338900518
+    8      C       3.4559492284    -0.9905878724     2.1641995379
+    9      O       3.0481192541     0.2035563034     1.4782084306
+   10      C       1.7096303029     0.3610596231     1.3272668069
+   11      C       1.3520821354     1.3480262858     0.2415820469
+   12      C       0.0833681281     1.0050567072    -0.5527977456
+   13      C      -0.8201236090    -0.0429821357     0.0652682205
+   14      O      -0.5768256355    -1.2392860780     0.1303587780
+   15      O       0.9500295717    -1.6752980439    -2.6425489015
+   16      O      -3.1397392534     0.0692187187     0.8664080046
+   17      O       1.0351679882     0.4997924964     2.3539034537
+   18      C      -4.4782541998     0.0937528985     1.3412908627
+   19      C       1.2566036211     2.8383164806     0.6225827319
+   20      C       1.5772305222     3.7517071854    -0.5682174578
+   21      C       0.3619677941     3.5247120551    -1.4342922714
+   22      C      -0.4335403632     2.5558701293    -0.5270288560
+   23      O      -0.1091300249     3.0309626639     0.7636590374
+   24      H       2.2669446029     1.2754353029    -0.4099635583
+   25      H       0.5661460581     1.1924228158    -1.4580582823
+   26      H       1.8903125136     3.1069050238     1.4954624678
+   27      H       1.5361461688     4.8021393418    -0.1953158217
+   28      H       2.5534609613     3.5898103154    -1.0714540141
+   29      H      -0.1815034646     4.4925716015    -1.5395992742
+   30      H       0.5501371249     3.1172371653    -2.4518529967
+   31      H      -1.4845201399     2.7444197189    -0.8057971467
+   32      O       1.5753188384    -2.5471481421    -0.5696555740
+   33      C       2.0391014192    -1.5728618617    -3.4824764589
+   34      C      -2.5085014521     0.5719817500    -1.0194820972
+   35      C      -3.2032268383    -1.2264350086    -0.8099444372
+   36      C      -2.6727789336    -2.0009186531     0.9573751280
+   37      C      -1.5782684614    -0.7013029374     1.9408191267
+   38      O      -1.8293190312     1.3280512090     1.0862738016
+   39      H      -1.3805586036    -1.7481637514    -2.0401503077
+   40      H      -0.8107107311    -3.0196942581    -0.3253398532
+   41      H       2.6681185779    -0.7095339380    -3.1732957709
+   42      H      -2.7198524410     1.2384264433    -1.8847706378
+   43      H      -4.2819602171    -0.9739039416    -0.8304617153
+   44      H      -3.3846815689    -1.9240800558    -1.6483416932
+   45      H      -3.5520108413    -2.1665114702     1.6159797642
+   46      H      -2.3710803537    -3.0609058531     0.9604359237
+   47      H      -1.0552509938    -0.9217683744     2.8969572038
+   48      H       1.7124197151    -1.4530341799    -4.5353092117
+   49      H       2.6502248898    -2.4943330503    -3.3880020816
+   50      H      -4.9279840521     1.0986287542     1.2779666823
+   51      H      -4.3969290124    -0.1062037496     2.4444860755
+   52      H      -5.1474835293    -0.7097202646     0.9904539163
+   53      H       3.3240484467    -0.7703800221     3.2465949119
+   54      H       4.5276926133    -1.2387627670     2.0107585295
+   55      H       3.0246422870    -2.7139657312     1.0482479772
+   56      H       2.4185983458    -2.8386649875     2.6869478517
+ ----------------------------------------------------------------
+ Molecular Point Group                 C1    NOp =  1
+ Largest Abelian Subgroup              C1    NOp =  1
+ Nuclear Repulsion Energy =  3760.8884700799 hartrees
+ There are      113 alpha and      113 beta electrons
+ Requested basis set is STO-3G
+ There are 86 shells and 176 basis functions
+
+ Total QAlloc Memory Limit   4000 MB
+ Mega-Array Size       392 MB
+ MEM_STATIC part       400 MB
+ A cutoff of  1.0D-12 yielded   2940 shell pairs
+ There are     14166 function pairs
+ 
+ -------------------------------------------------------
+ OpenMP Integral Computing Module                       
+ Release: version 1.0, May 2013, Q-Chem Inc. Pittsburgh 
+ -------------------------------------------------------
+ Integral Job Info:
+ Integral job number is                      11
+ Integral operator is                         1
+ short-range coefficients                     0
+ long-range coefficients              100000000
+ Omega coefficients                           0
+ if combine SR and LR in K                    0
+ Integral screening is                        0
+ Integral computing path is                   2
+ max size of driver memory is            800000
+ size of driver memory is                 45569
+ size of scratch memory is              1046100
+ max col of scratch BK array                289
+ max len of scratch array in speh3           22
+ max len of scratch index in speh4            8
+ max int batch size is                      520
+ min int batch size is                       52
+ fixed nKL is                                52
+ max L of basis functions is                  1
+ order of int derivative is                   0
+ number of shells is                         86
+ number of basis is                         176
+ number of cartesian basis is               176
+ number of contracted shell pairs          2940
+ number of primitive shell pairs          14433
+ maxK2 (contraction) of shell pair            9
+ max number of K2 of shell pair               1
+ max number of CS2 of shell pair            462
+ max number of PS2 of shell pair           1866
+ mem total for path MDJ                   70986
+ -------------------------------------------------------
+ Smallest overlap matrix eigenvalue = 1.12E-02
+
+ Scale SEOQF with 1.000000e-01/1.000000e-01/1.000000e-01
+
+ Standard Electronic Orientation quadrupole field applied
+ Nucleus-field energy     =     0.0000000221 hartrees
+ Guess from superposition of atomic densities
+ Warning:  Energy on first SCF cycle will be non-variational
+ A restricted hybrid HF-DFT SCF calculation will be
+ performed using Pulay DIIS extrapolation
+ Exchange:     0.2000 Hartree-Fock + 0.0800 Slater + 0.7200 B88
+ Correlation:  0.1900 VWN1RPA + 0.8100 LYP
+ Using SG-1 standard quadrature grid
+ Dispersion:   Grimme D3
+ SCF converges when DIIS error is below 1.0E-08
+ using 48 threads for integral computing
+ -------------------------------------------------------
+ OpenMP Integral computing Module                
+ Release: version 1.0, May 2013, Q-Chem Inc. Pittsburgh 
+ -------------------------------------------------------
+ -------------------------------------------------------
+ OpenMP BLAS3 based DFT computing Module                
+ Release: version 1.0, May 2013, Q-Chem Inc. Pittsburgh 
+ -------------------------------------------------------
+ ---------------------------------------
+  Cycle       Energy         DIIS Error
+ ---------------------------------------
+    1   -1505.8682566007      1.21E-01
+    2   -1495.0000626255      1.85E-02
+    3   -1436.6854208246      7.15E-02
+    4   -1491.4977825992      2.72E-02
+    5   -1492.9396740307      2.10E-02
+    6   -1495.5094885468      1.87E-02
+    7   -1496.9005448126      1.05E-02
+    8   -1495.3403979475      1.84E-02
+    9   -1495.4770563890      1.88E-02
+   10   -1495.7529899358      1.79E-02
+   11   -1495.9762374542      1.70E-02
+   12   -1495.5272835567      1.87E-02
+   13   -1495.3198339044      1.94E-02
+   14   -1495.3112551160      1.94E-02
+   15   -1495.2523446982      1.95E-02
+   16   -1495.2022432146      1.96E-02
+   17   -1495.1628587322      1.97E-02
+   18   -1492.4868468695      2.14E-02
+   19   -1488.0000659570      2.89E-02
+   20   -1490.3296285080      2.43E-02
+   21   -1496.4638740090      1.40E-02
+   22   -1496.3247274682      1.49E-02
+   23   -1496.4470090739      1.43E-02
+   24   -1495.6638067489      1.78E-02
+   25   -1495.2556473478      1.86E-02
+   26   -1496.1804613914      1.61E-02
+   27   -1496.5153484232      1.43E-02
+   28   -1496.2665960245      1.55E-02
+   29   -1496.3868564104      1.49E-02
+   30   -1496.3750417033      1.50E-02
+   31   -1496.5851938659      1.37E-02
+   32   -1497.1892642539      7.21E-03
+   33   -1497.3098019636      5.29E-03
+   34   -1497.3676020924      4.30E-03
+   35   -1497.4607073230      1.25E-03
+   36   -1497.4474913954      2.13E-03
+   37   -1497.4711594478      3.84E-04
+   38   -1497.4718448565      1.40E-04
+   39   -1497.4719308477      6.04E-05
+   40   -1497.4719525361      2.48E-05
+   41   -1497.4719584863      8.27E-06
+   42   -1497.4719602324      6.15E-06
+   43   -1497.4719607833      2.84E-06
+   44   -1497.4719608890      1.07E-06
+   45   -1497.4719609424      8.59E-07
+   46   -1497.4719609576      4.33E-07
+   47   -1497.4719609608      1.61E-07
+   48   -1497.4719609613      6.86E-08
+   49   -1497.4719609614      2.69E-08
+   50   -1497.4719609615      1.89E-08    Convergence failure
+
+ Q-Chem fatal error occurred in module /opt/software/qchem/qchem-5.0.1/scfman/scfman.C, line 5029:
+
+ SCF failed to converge
+

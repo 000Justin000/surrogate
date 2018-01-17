@@ -1,0 +1,1511 @@
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 396995 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0003.in.396928.qcin.1" "/scratch/jj585/11n01/0003.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI396947 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 398063 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0010.in.397996.qcin.1" "/scratch/jj585/11n01/0010.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI398015 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 399815 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0022.in.399748.qcin.1" "/scratch/jj585/11n01/0022.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI399767 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 401170 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0031.in.401103.qcin.1" "/scratch/jj585/11n01/0031.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI401122 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 401482 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0032.in.401414.qcin.1" "/scratch/jj585/11n01/0032.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI401433 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 401628 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0033.in.401561.qcin.1" "/scratch/jj585/11n01/0033.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI401580 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 402002 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0035.in.401935.qcin.1" "/scratch/jj585/11n01/0035.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI401954 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 402485 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0038.in.402418.qcin.1" "/scratch/jj585/11n01/0038.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI402437 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 402868 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0040.in.402801.qcin.1" "/scratch/jj585/11n01/0040.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI402820 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 403104 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0041.in.403036.qcin.1" "/scratch/jj585/11n01/0041.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI403055 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 403342 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0042.in.403274.qcin.1" "/scratch/jj585/11n01/0042.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI403293 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 403840 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0045.in.403773.qcin.1" "/scratch/jj585/11n01/0045.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI403792 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 404078 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0046.in.404010.qcin.1" "/scratch/jj585/11n01/0046.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI404029 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 404301 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0047.in.404234.qcin.1" "/scratch/jj585/11n01/0047.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI404253 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 404541 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0048.in.404474.qcin.1" "/scratch/jj585/11n01/0048.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI404493 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 404796 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0049.in.404728.qcin.1" "/scratch/jj585/11n01/0049.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI404747 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 405021 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0050.in.404953.qcin.1" "/scratch/jj585/11n01/0050.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI404972 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 405388 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0052.in.405321.qcin.1" "/scratch/jj585/11n01/0052.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI405340 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 405615 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0053.in.405547.qcin.1" "/scratch/jj585/11n01/0053.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI405566 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 405835 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0054.in.405768.qcin.1" "/scratch/jj585/11n01/0054.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI405787 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 406102 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0055.in.406035.qcin.1" "/scratch/jj585/11n01/0055.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI406054 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 406326 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0056.in.406258.qcin.1" "/scratch/jj585/11n01/0056.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI406277 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 406564 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0057.in.406496.qcin.1" "/scratch/jj585/11n01/0057.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI406515 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 406787 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0058.in.406719.qcin.1" "/scratch/jj585/11n01/0058.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI406738 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 407172 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0059.in.407104.qcin.1" "/scratch/jj585/11n01/0059.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI407123 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 407431 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0060.in.407364.qcin.1" "/scratch/jj585/11n01/0060.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI407383 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 407645 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0061.in.407578.qcin.1" "/scratch/jj585/11n01/0061.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI407597 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 407871 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0062.in.407803.qcin.1" "/scratch/jj585/11n01/0062.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI407822 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 408116 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0063.in.408048.qcin.1" "/scratch/jj585/11n01/0063.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI408067 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 408342 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0064.in.408274.qcin.1" "/scratch/jj585/11n01/0064.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI408293 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 408594 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0065.in.408527.qcin.1" "/scratch/jj585/11n01/0065.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI408546 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 408809 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0066.in.408742.qcin.1" "/scratch/jj585/11n01/0066.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI408761 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 409191 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0067.in.409123.qcin.1" "/scratch/jj585/11n01/0067.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI409142 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 409454 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0068.in.409386.qcin.1" "/scratch/jj585/11n01/0068.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI409405 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 409663 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0069.in.409594.qcin.1" "/scratch/jj585/11n01/0069.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI409613 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 409908 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0070.in.409841.qcin.1" "/scratch/jj585/11n01/0070.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI409860 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 410124 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0071.in.410056.qcin.1" "/scratch/jj585/11n01/0071.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI410075 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 410343 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0072.in.410276.qcin.1" "/scratch/jj585/11n01/0072.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI410295 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 410593 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0073.in.410526.qcin.1" "/scratch/jj585/11n01/0073.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI410545 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 413697 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0095.in.413630.qcin.1" "/scratch/jj585/11n01/0095.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI413649 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 414786 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0102.in.414719.qcin.1" "/scratch/jj585/11n01/0102.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI414738 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 414926 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0103.in.414858.qcin.1" "/scratch/jj585/11n01/0103.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI414877 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 415152 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0104.in.415084.qcin.1" "/scratch/jj585/11n01/0104.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI415103 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 415517 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0106.in.415450.qcin.1" "/scratch/jj585/11n01/0106.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI415469 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 416300 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0111.in.416233.qcin.1" "/scratch/jj585/11n01/0111.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI416252 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 416575 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0113.in.416507.qcin.1" "/scratch/jj585/11n01/0113.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI416526 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 416799 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0114.in.416731.qcin.1" "/scratch/jj585/11n01/0114.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI416750 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 416938 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0115.in.416870.qcin.1" "/scratch/jj585/11n01/0115.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI416889 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 417173 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0116.in.417105.qcin.1" "/scratch/jj585/11n01/0116.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI417124 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 417313 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0117.in.417245.qcin.1" "/scratch/jj585/11n01/0117.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI417264 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 417535 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0118.in.417468.qcin.1" "/scratch/jj585/11n01/0118.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI417487 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 417892 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0120.in.417825.qcin.1" "/scratch/jj585/11n01/0120.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI417844 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 418115 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0121.in.418047.qcin.1" "/scratch/jj585/11n01/0121.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI418066 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 418366 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0122.in.418299.qcin.1" "/scratch/jj585/11n01/0122.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI418318 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 418602 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0123.in.418534.qcin.1" "/scratch/jj585/11n01/0123.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI418553 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 418841 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0124.in.418774.qcin.1" "/scratch/jj585/11n01/0124.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI418793 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 419071 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0125.in.419003.qcin.1" "/scratch/jj585/11n01/0125.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI419022 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 419307 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0126.in.419239.qcin.1" "/scratch/jj585/11n01/0126.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI419258 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 419541 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0127.in.419473.qcin.1" "/scratch/jj585/11n01/0127.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI419492 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 419766 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0128.in.419699.qcin.1" "/scratch/jj585/11n01/0128.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI419718 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 419990 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0129.in.419921.qcin.1" "/scratch/jj585/11n01/0129.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI419940 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 420226 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0130.in.420158.qcin.1" "/scratch/jj585/11n01/0130.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI420177 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 420449 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0131.in.420381.qcin.1" "/scratch/jj585/11n01/0131.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI420400 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 420673 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0132.in.420605.qcin.1" "/scratch/jj585/11n01/0132.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI420624 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 420926 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0133.in.420859.qcin.1" "/scratch/jj585/11n01/0133.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI420878 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 421152 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0134.in.421084.qcin.1" "/scratch/jj585/11n01/0134.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI421103 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 421361 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0135.in.421293.qcin.1" "/scratch/jj585/11n01/0135.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI421312 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 421619 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0136.in.421551.qcin.1" "/scratch/jj585/11n01/0136.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI421570 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 421831 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0137.in.421764.qcin.1" "/scratch/jj585/11n01/0137.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI421783 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 422075 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0138.in.422007.qcin.1" "/scratch/jj585/11n01/0138.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI422026 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 422301 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0139.in.422233.qcin.1" "/scratch/jj585/11n01/0139.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI422252 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 422511 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0140.in.422442.qcin.1" "/scratch/jj585/11n01/0140.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI422461 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 422759 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0141.in.422692.qcin.1" "/scratch/jj585/11n01/0141.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI422711 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 422992 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0142.in.422924.qcin.1" "/scratch/jj585/11n01/0142.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI422943 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 423239 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0143.in.423171.qcin.1" "/scratch/jj585/11n01/0143.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI423190 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 423480 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0144.in.423412.qcin.1" "/scratch/jj585/11n01/0144.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI423431 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 423715 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0145.in.423648.qcin.1" "/scratch/jj585/11n01/0145.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI423667 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 423968 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0146.in.423900.qcin.1" "/scratch/jj585/11n01/0146.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI423919 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 424175 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0147.in.424107.qcin.1" "/scratch/jj585/11n01/0147.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI424126 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 425790 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0158.in.425723.qcin.1" "/scratch/jj585/11n01/0158.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI425742 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 426156 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0160.in.426089.qcin.1" "/scratch/jj585/11n01/0160.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI426108 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 427800 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0172.in.427733.qcin.1" "/scratch/jj585/11n01/0172.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI427752 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 428284 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0175.in.428217.qcin.1" "/scratch/jj585/11n01/0175.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI428236 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 428804 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0178.in.428737.qcin.1" "/scratch/jj585/11n01/0178.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI428756 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 429178 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0180.in.429111.qcin.1" "/scratch/jj585/11n01/0180.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI429130 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 429852 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0184.in.429785.qcin.1" "/scratch/jj585/11n01/0184.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI429804 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 430162 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0185.in.430094.qcin.1" "/scratch/jj585/11n01/0185.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI430113 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 430364 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0186.in.430297.qcin.1" "/scratch/jj585/11n01/0186.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI430316 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 430749 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0188.in.430682.qcin.1" "/scratch/jj585/11n01/0188.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI430701 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 431095 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0190.in.431028.qcin.1" "/scratch/jj585/11n01/0190.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI431047 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 431344 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0191.in.431276.qcin.1" "/scratch/jj585/11n01/0191.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI431295 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 431636 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0192.in.431569.qcin.1" "/scratch/jj585/11n01/0192.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI431588 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 431845 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0193.in.431778.qcin.1" "/scratch/jj585/11n01/0193.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI431797 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 432098 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0194.in.432031.qcin.1" "/scratch/jj585/11n01/0194.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI432050 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 432307 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0195.in.432239.qcin.1" "/scratch/jj585/11n01/0195.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI432258 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 432586 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0196.in.432518.qcin.1" "/scratch/jj585/11n01/0196.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI432537 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 432813 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0197.in.432745.qcin.1" "/scratch/jj585/11n01/0197.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI432764 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 432951 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0198.in.432884.qcin.1" "/scratch/jj585/11n01/0198.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI432903 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 433160 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0199.in.433092.qcin.1" "/scratch/jj585/11n01/0199.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI433111 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 433418 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0200.in.433351.qcin.1" "/scratch/jj585/11n01/0200.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI433370 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 433628 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0201.in.433560.qcin.1" "/scratch/jj585/11n01/0201.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI433579 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 433888 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0202.in.433820.qcin.1" "/scratch/jj585/11n01/0202.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI433839 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 434111 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0203.in.434042.qcin.1" "/scratch/jj585/11n01/0203.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI434061 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 434346 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0204.in.434278.qcin.1" "/scratch/jj585/11n01/0204.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI434297 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 434600 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0205.in.434532.qcin.1" "/scratch/jj585/11n01/0205.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI434551 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 434816 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0206.in.434749.qcin.1" "/scratch/jj585/11n01/0206.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI434768 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 435085 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0207.in.435017.qcin.1" "/scratch/jj585/11n01/0207.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI435036 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 435345 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0208.in.435277.qcin.1" "/scratch/jj585/11n01/0208.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI435296 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 435550 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0209.in.435482.qcin.1" "/scratch/jj585/11n01/0209.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI435501 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 435803 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0210.in.435735.qcin.1" "/scratch/jj585/11n01/0210.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI435754 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 436009 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0211.in.435941.qcin.1" "/scratch/jj585/11n01/0211.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI435960 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 436270 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0212.in.436202.qcin.1" "/scratch/jj585/11n01/0212.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI436221 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 436490 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0213.in.436422.qcin.1" "/scratch/jj585/11n01/0213.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI436441 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 436741 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0214.in.436673.qcin.1" "/scratch/jj585/11n01/0214.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI436692 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 436994 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0215.in.436927.qcin.1" "/scratch/jj585/11n01/0215.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI436946 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 437204 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0216.in.437135.qcin.1" "/scratch/jj585/11n01/0216.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI437155 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 437461 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0217.in.437393.qcin.1" "/scratch/jj585/11n01/0217.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI437412 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 437702 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0218.in.437634.qcin.1" "/scratch/jj585/11n01/0218.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI437653 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 437920 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0219.in.437851.qcin.1" "/scratch/jj585/11n01/0219.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI437870 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 438204 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0220.in.438136.qcin.1" "/scratch/jj585/11n01/0220.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI438155 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 438412 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0221.in.438344.qcin.1" "/scratch/jj585/11n01/0221.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI438363 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 438664 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0222.in.438596.qcin.1" "/scratch/jj585/11n01/0222.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI438615 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 441408 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0242.in.441341.qcin.1" "/scratch/jj585/11n01/0242.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI441360 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 442872 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0252.in.442805.qcin.1" "/scratch/jj585/11n01/0252.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI442824 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 444082 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0260.in.444014.qcin.1" "/scratch/jj585/11n01/0260.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI444033 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 444419 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0262.in.444352.qcin.1" "/scratch/jj585/11n01/0262.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI444371 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 444674 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0263.in.444607.qcin.1" "/scratch/jj585/11n01/0263.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI444626 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 445733 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0270.in.445666.qcin.1" "/scratch/jj585/11n01/0270.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI445685 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 446643 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0276.in.446576.qcin.1" "/scratch/jj585/11n01/0276.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI446595 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 446924 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0277.in.446857.qcin.1" "/scratch/jj585/11n01/0277.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI446876 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 447134 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0278.in.447066.qcin.1" "/scratch/jj585/11n01/0278.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI447085 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 447396 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0279.in.447328.qcin.1" "/scratch/jj585/11n01/0279.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI447347 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 447622 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0280.in.447554.qcin.1" "/scratch/jj585/11n01/0280.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI447573 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 447832 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0281.in.447764.qcin.1" "/scratch/jj585/11n01/0281.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI447783 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 448146 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0282.in.448078.qcin.1" "/scratch/jj585/11n01/0282.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI448097 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 448398 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0283.in.448330.qcin.1" "/scratch/jj585/11n01/0283.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI448349 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 448650 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0284.in.448582.qcin.1" "/scratch/jj585/11n01/0284.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI448601 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 448876 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0285.in.448809.qcin.1" "/scratch/jj585/11n01/0285.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI448828 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 449098 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0286.in.449030.qcin.1" "/scratch/jj585/11n01/0286.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI449049 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 449347 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0287.in.449280.qcin.1" "/scratch/jj585/11n01/0287.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI449299 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 449558 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0288.in.449490.qcin.1" "/scratch/jj585/11n01/0288.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI449509 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 449811 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0289.in.449743.qcin.1" "/scratch/jj585/11n01/0289.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI449762 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 450013 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0290.in.449945.qcin.1" "/scratch/jj585/11n01/0290.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI449964 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 450230 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0291.in.450162.qcin.1" "/scratch/jj585/11n01/0291.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI450181 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 450485 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0292.in.450417.qcin.1" "/scratch/jj585/11n01/0292.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI450436 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 450694 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0293.in.450626.qcin.1" "/scratch/jj585/11n01/0293.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI450645 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 450943 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0294.in.450875.qcin.1" "/scratch/jj585/11n01/0294.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI450894 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 451177 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0295.in.451109.qcin.1" "/scratch/jj585/11n01/0295.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI451128 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 451681 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0298.in.451614.qcin.1" "/scratch/jj585/11n01/0298.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI451633 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 452514 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0304.in.452447.qcin.1" "/scratch/jj585/11n01/0304.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI452466 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 452917 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0306.in.452850.qcin.1" "/scratch/jj585/11n01/0306.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI452869 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 454797 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0319.in.454730.qcin.1" "/scratch/jj585/11n01/0319.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI454749 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 455167 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0321.in.455100.qcin.1" "/scratch/jj585/11n01/0321.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI455119 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 455392 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0322.in.455324.qcin.1" "/scratch/jj585/11n01/0322.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI455343 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 455761 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0324.in.455693.qcin.1" "/scratch/jj585/11n01/0324.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI455712 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 455988 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0325.in.455920.qcin.1" "/scratch/jj585/11n01/0325.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI455939 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 456535 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0329.in.456468.qcin.1" "/scratch/jj585/11n01/0329.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI456487 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 457203 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0333.in.457136.qcin.1" "/scratch/jj585/11n01/0333.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI457155 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 457437 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0334.in.457370.qcin.1" "/scratch/jj585/11n01/0334.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI457389 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 457798 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0336.in.457730.qcin.1" "/scratch/jj585/11n01/0336.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI457749 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 458045 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0337.in.457977.qcin.1" "/scratch/jj585/11n01/0337.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI457996 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 458665 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0341.in.458597.qcin.1" "/scratch/jj585/11n01/0341.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI458616 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:   580 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0342.in.510.qcin.1" "/scratch/jj585/11n01/0342.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI531 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:   872 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0343.in.767.qcin.1" "/scratch/jj585/11n01/0343.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI786 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  1106 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0344.in.1026.qcin.1" "/scratch/jj585/11n01/0344.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI1045 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  1365 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0345.in.1296.qcin.1" "/scratch/jj585/11n01/0345.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI1315 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  1574 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0346.in.1506.qcin.1" "/scratch/jj585/11n01/0346.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI1525 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  1887 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0347.in.1820.qcin.1" "/scratch/jj585/11n01/0347.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI1839 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  2136 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0348.in.2060.qcin.1" "/scratch/jj585/11n01/0348.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI2080 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  2661 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0351.in.2593.qcin.1" "/scratch/jj585/11n01/0351.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI2612 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  2909 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0352.in.2841.qcin.1" "/scratch/jj585/11n01/0352.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI2860 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  3116 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0353.in.3048.qcin.1" "/scratch/jj585/11n01/0353.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI3067 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  3372 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0354.in.3305.qcin.1" "/scratch/jj585/11n01/0354.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI3324 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  3601 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0355.in.3533.qcin.1" "/scratch/jj585/11n01/0355.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI3552 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  3962 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0356.in.3879.qcin.1" "/scratch/jj585/11n01/0356.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI3903 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  4211 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0357.in.4143.qcin.1" "/scratch/jj585/11n01/0357.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI4162 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  4426 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0358.in.4358.qcin.1" "/scratch/jj585/11n01/0358.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI4377 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  4674 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0359.in.4606.qcin.1" "/scratch/jj585/11n01/0359.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI4625 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  4924 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0360.in.4856.qcin.1" "/scratch/jj585/11n01/0360.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI4875 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  5136 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0361.in.5068.qcin.1" "/scratch/jj585/11n01/0361.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI5087 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  5399 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0362.in.5323.qcin.1" "/scratch/jj585/11n01/0362.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI5350 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  5598 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0363.in.5530.qcin.1" "/scratch/jj585/11n01/0363.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI5549 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  5847 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0364.in.5779.qcin.1" "/scratch/jj585/11n01/0364.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI5798 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  6082 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0365.in.6014.qcin.1" "/scratch/jj585/11n01/0365.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI6033 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  6290 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0366.in.6222.qcin.1" "/scratch/jj585/11n01/0366.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI6241 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  6534 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0367.in.6466.qcin.1" "/scratch/jj585/11n01/0367.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI6485 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  6741 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0368.in.6673.qcin.1" "/scratch/jj585/11n01/0368.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI6692 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  6993 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0369.in.6924.qcin.1" "/scratch/jj585/11n01/0369.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI6943 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  7791 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0374.in.7724.qcin.1" "/scratch/jj585/11n01/0374.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI7743 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  8281 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0377.in.8214.qcin.1" "/scratch/jj585/11n01/0377.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI8233 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  8807 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0380.in.8740.qcin.1" "/scratch/jj585/11n01/0380.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI8759 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243:  9448 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0384.in.9381.qcin.1" "/scratch/jj585/11n01/0384.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI9400 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 10787 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0393.in.10720.qcin.1" "/scratch/jj585/11n01/0393.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI10739 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 11005 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0394.in.10938.qcin.1" "/scratch/jj585/11n01/0394.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI10957 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 11796 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0399.in.11729.qcin.1" "/scratch/jj585/11n01/0399.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI11748 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 12033 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0400.in.11966.qcin.1" "/scratch/jj585/11n01/0400.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI11985 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 12284 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0401.in.12216.qcin.1" "/scratch/jj585/11n01/0401.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI12235 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 13071 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0406.in.13004.qcin.1" "/scratch/jj585/11n01/0406.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI13023 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 13436 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0408.in.13369.qcin.1" "/scratch/jj585/11n01/0408.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI13388 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 14090 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0412.in.14023.qcin.1" "/scratch/jj585/11n01/0412.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI14042 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 14578 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0415.in.14511.qcin.1" "/scratch/jj585/11n01/0415.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI14530 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 14825 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0416.in.14757.qcin.1" "/scratch/jj585/11n01/0416.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI14776 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 15058 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0417.in.14990.qcin.1" "/scratch/jj585/11n01/0417.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI15009 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 15401 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0419.in.15334.qcin.1" "/scratch/jj585/11n01/0419.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI15353 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 15652 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0420.in.15585.qcin.1" "/scratch/jj585/11n01/0420.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI15604 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 15877 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0421.in.15810.qcin.1" "/scratch/jj585/11n01/0421.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI15829 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 16136 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0422.in.16069.qcin.1" "/scratch/jj585/11n01/0422.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI16088 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 16366 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0423.in.16299.qcin.1" "/scratch/jj585/11n01/0423.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI16318 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 16603 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0424.in.16535.qcin.1" "/scratch/jj585/11n01/0424.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI16554 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 16825 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0425.in.16757.qcin.1" "/scratch/jj585/11n01/0425.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI16776 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 17059 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0426.in.16991.qcin.1" "/scratch/jj585/11n01/0426.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI17010 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 17289 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0427.in.17221.qcin.1" "/scratch/jj585/11n01/0427.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI17240 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 17521 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0428.in.17453.qcin.1" "/scratch/jj585/11n01/0428.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI17472 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 17768 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0429.in.17700.qcin.1" "/scratch/jj585/11n01/0429.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI17719 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 17979 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0430.in.17912.qcin.1" "/scratch/jj585/11n01/0430.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI17931 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 18381 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0432.in.18313.qcin.1" "/scratch/jj585/11n01/0432.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI18332 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 18633 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0433.in.18565.qcin.1" "/scratch/jj585/11n01/0433.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI18584 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 18846 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0434.in.18778.qcin.1" "/scratch/jj585/11n01/0434.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI18797 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 19093 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0435.in.19025.qcin.1" "/scratch/jj585/11n01/0435.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI19044 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 19303 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0436.in.19236.qcin.1" "/scratch/jj585/11n01/0436.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI19255 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 19556 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0437.in.19489.qcin.1" "/scratch/jj585/11n01/0437.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI19508 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 19782 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0438.in.19715.qcin.1" "/scratch/jj585/11n01/0438.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI19734 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 20056 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0439.in.19989.qcin.1" "/scratch/jj585/11n01/0439.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI20008 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 20287 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0440.in.20219.qcin.1" "/scratch/jj585/11n01/0440.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI20238 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 20518 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0441.in.20450.qcin.1" "/scratch/jj585/11n01/0441.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI20469 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 20772 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0442.in.20704.qcin.1" "/scratch/jj585/11n01/0442.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI20723 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 20996 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0443.in.20928.qcin.1" "/scratch/jj585/11n01/0443.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI20947 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 22758 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0455.in.22691.qcin.1" "/scratch/jj585/11n01/0455.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI22710 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 23933 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0463.in.23866.qcin.1" "/scratch/jj585/11n01/0463.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI23885 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 24181 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0464.in.24114.qcin.1" "/scratch/jj585/11n01/0464.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI24133 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 25362 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0472.in.25295.qcin.1" "/scratch/jj585/11n01/0472.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI25314 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 25700 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0474.in.25633.qcin.1" "/scratch/jj585/11n01/0474.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI25652 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 26087 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0476.in.26020.qcin.1" "/scratch/jj585/11n01/0476.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI26039 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 26705 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0480.in.26638.qcin.1" "/scratch/jj585/11n01/0480.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI26657 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 27501 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0485.in.27434.qcin.1" "/scratch/jj585/11n01/0485.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI27453 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 27743 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0486.in.27675.qcin.1" "/scratch/jj585/11n01/0486.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI27694 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 27950 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0487.in.27883.qcin.1" "/scratch/jj585/11n01/0487.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI27902 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 28603 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0491.in.28536.qcin.1" "/scratch/jj585/11n01/0491.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI28555 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 28806 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0492.in.28739.qcin.1" "/scratch/jj585/11n01/0492.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI28758 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 29051 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0493.in.28983.qcin.1" "/scratch/jj585/11n01/0493.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI29002 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 29258 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0494.in.29190.qcin.1" "/scratch/jj585/11n01/0494.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI29209 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 29620 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0496.in.29553.qcin.1" "/scratch/jj585/11n01/0496.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI29572 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 30032 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0498.in.29965.qcin.1" "/scratch/jj585/11n01/0498.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI29984 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 30380 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0500.in.30311.qcin.1" "/scratch/jj585/11n01/0500.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI30330 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 30638 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0501.in.30570.qcin.1" "/scratch/jj585/11n01/0501.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI30589 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 30863 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0502.in.30795.qcin.1" "/scratch/jj585/11n01/0502.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI30814 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 31084 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0503.in.31017.qcin.1" "/scratch/jj585/11n01/0503.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI31036 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 31314 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0504.in.31246.qcin.1" "/scratch/jj585/11n01/0504.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI31265 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 31543 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0505.in.31475.qcin.1" "/scratch/jj585/11n01/0505.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI31494 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 31745 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0506.in.31678.qcin.1" "/scratch/jj585/11n01/0506.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI31697 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 31991 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0507.in.31924.qcin.1" "/scratch/jj585/11n01/0507.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI31943 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 32216 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0508.in.32149.qcin.1" "/scratch/jj585/11n01/0508.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI32168 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 32420 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0509.in.32352.qcin.1" "/scratch/jj585/11n01/0509.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI32371 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 32669 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0510.in.32601.qcin.1" "/scratch/jj585/11n01/0510.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI32620 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 32876 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0511.in.32809.qcin.1" "/scratch/jj585/11n01/0511.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI32828 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 33128 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0512.in.33061.qcin.1" "/scratch/jj585/11n01/0512.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI33080 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 33349 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0513.in.33281.qcin.1" "/scratch/jj585/11n01/0513.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI33300 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 33567 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0514.in.33499.qcin.1" "/scratch/jj585/11n01/0514.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI33518 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 33793 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0515.in.33726.qcin.1" "/scratch/jj585/11n01/0515.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI33745 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 34018 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0516.in.33949.qcin.1" "/scratch/jj585/11n01/0516.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI33968 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 34229 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0517.in.34162.qcin.1" "/scratch/jj585/11n01/0517.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI34181 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 35144 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0523.in.35076.qcin.1" "/scratch/jj585/11n01/0523.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI35095 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 35507 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0525.in.35440.qcin.1" "/scratch/jj585/11n01/0525.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI35459 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 36887 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0535.in.36820.qcin.1" "/scratch/jj585/11n01/0535.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI36839 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 37254 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0537.in.37179.qcin.1" "/scratch/jj585/11n01/0537.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI37205 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 37816 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0541.in.37749.qcin.1" "/scratch/jj585/11n01/0541.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI37768 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 38981 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0549.in.38913.qcin.1" "/scratch/jj585/11n01/0549.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI38932 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 39263 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0551.in.39196.qcin.1" "/scratch/jj585/11n01/0551.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI39215 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 39785 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0554.in.39717.qcin.1" "/scratch/jj585/11n01/0554.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI39736 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 40015 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0555.in.39947.qcin.1" "/scratch/jj585/11n01/0555.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI39966 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 40243 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0556.in.40175.qcin.1" "/scratch/jj585/11n01/0556.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI40194 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 40496 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0557.in.40428.qcin.1" "/scratch/jj585/11n01/0557.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI40447 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 40844 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0559.in.40777.qcin.1" "/scratch/jj585/11n01/0559.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI40796 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 41071 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0560.in.41003.qcin.1" "/scratch/jj585/11n01/0560.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI41022 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 41439 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0562.in.41372.qcin.1" "/scratch/jj585/11n01/0562.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI41391 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 41807 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0564.in.41740.qcin.1" "/scratch/jj585/11n01/0564.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI41759 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 42193 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0566.in.42125.qcin.1" "/scratch/jj585/11n01/0566.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI42145 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 42539 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0568.in.42471.qcin.1" "/scratch/jj585/11n01/0568.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI42490 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 42798 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0569.in.42730.qcin.1" "/scratch/jj585/11n01/0569.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI42749 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 43023 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0570.in.42955.qcin.1" "/scratch/jj585/11n01/0570.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI42974 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 43257 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0571.in.43189.qcin.1" "/scratch/jj585/11n01/0571.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI43208 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 43506 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0572.in.43438.qcin.1" "/scratch/jj585/11n01/0572.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI43457 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 43710 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0573.in.43642.qcin.1" "/scratch/jj585/11n01/0573.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI43661 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 43940 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0574.in.43872.qcin.1" "/scratch/jj585/11n01/0574.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI43891 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 44173 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0575.in.44105.qcin.1" "/scratch/jj585/11n01/0575.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI44124 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 44386 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0576.in.44319.qcin.1" "/scratch/jj585/11n01/0576.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI44338 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 44629 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0577.in.44561.qcin.1" "/scratch/jj585/11n01/0577.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI44580 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 44838 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0578.in.44770.qcin.1" "/scratch/jj585/11n01/0578.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI44789 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 45096 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0579.in.45028.qcin.1" "/scratch/jj585/11n01/0579.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI45047 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 45328 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0580.in.45261.qcin.1" "/scratch/jj585/11n01/0580.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI45280 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 45551 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0581.in.45483.qcin.1" "/scratch/jj585/11n01/0581.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI45502 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 45774 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0582.in.45707.qcin.1" "/scratch/jj585/11n01/0582.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI45726 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 46000 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0583.in.45932.qcin.1" "/scratch/jj585/11n01/0583.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI45951 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 46227 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0584.in.46160.qcin.1" "/scratch/jj585/11n01/0584.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI46179 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 46459 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0585.in.46391.qcin.1" "/scratch/jj585/11n01/0585.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI46410 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 46715 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0586.in.46648.qcin.1" "/scratch/jj585/11n01/0586.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI46667 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 46940 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0587.in.46872.qcin.1" "/scratch/jj585/11n01/0587.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI46891 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 47170 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0588.in.47103.qcin.1" "/scratch/jj585/11n01/0588.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI47122 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 47398 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0589.in.47330.qcin.1" "/scratch/jj585/11n01/0589.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI47349 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 47665 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0590.in.47597.qcin.1" "/scratch/jj585/11n01/0590.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI47616 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 47888 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0591.in.47820.qcin.1" "/scratch/jj585/11n01/0591.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI47839 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 48662 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0596.in.48595.qcin.1" "/scratch/jj585/11n01/0596.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI48614 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 50121 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0606.in.50053.qcin.1" "/scratch/jj585/11n01/0606.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI50072 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 50480 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0608.in.50413.qcin.1" "/scratch/jj585/11n01/0608.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI50432 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 50714 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0609.in.50646.qcin.1" "/scratch/jj585/11n01/0609.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI50665 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 51556 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0615.in.51489.qcin.1" "/scratch/jj585/11n01/0615.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI51508 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 52463 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0621.in.52396.qcin.1" "/scratch/jj585/11n01/0621.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI52415 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 52716 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0622.in.52649.qcin.1" "/scratch/jj585/11n01/0622.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI52668 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 52912 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0623.in.52844.qcin.1" "/scratch/jj585/11n01/0623.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI52863 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 53165 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0624.in.53097.qcin.1" "/scratch/jj585/11n01/0624.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI53116 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 53402 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0625.in.53335.qcin.1" "/scratch/jj585/11n01/0625.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI53354 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 53631 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0626.in.53564.qcin.1" "/scratch/jj585/11n01/0626.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI53583 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 54084 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0628.in.54017.qcin.1" "/scratch/jj585/11n01/0628.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI54036 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 54292 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0629.in.54225.qcin.1" "/scratch/jj585/11n01/0629.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI54244 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 54548 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0630.in.54480.qcin.1" "/scratch/jj585/11n01/0630.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI54499 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 54777 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0631.in.54709.qcin.1" "/scratch/jj585/11n01/0631.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI54728 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 55000 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0632.in.54933.qcin.1" "/scratch/jj585/11n01/0632.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI54952 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 55284 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0633.in.55216.qcin.1" "/scratch/jj585/11n01/0633.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI55235 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 55484 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0634.in.55417.qcin.1" "/scratch/jj585/11n01/0634.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI55436 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 55742 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0635.in.55674.qcin.1" "/scratch/jj585/11n01/0635.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI55693 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 55990 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0636.in.55922.qcin.1" "/scratch/jj585/11n01/0636.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI55941 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 56198 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0637.in.56130.qcin.1" "/scratch/jj585/11n01/0637.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI56149 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 56447 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0638.in.56380.qcin.1" "/scratch/jj585/11n01/0638.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI56399 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 56659 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0639.in.56591.qcin.1" "/scratch/jj585/11n01/0639.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI56610 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 56910 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0640.in.56842.qcin.1" "/scratch/jj585/11n01/0640.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI56861 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 57132 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0641.in.57064.qcin.1" "/scratch/jj585/11n01/0641.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI57083 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 57344 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0642.in.57277.qcin.1" "/scratch/jj585/11n01/0642.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI57296 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 57585 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0643.in.57517.qcin.1" "/scratch/jj585/11n01/0643.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI57536 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 57795 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0644.in.57727.qcin.1" "/scratch/jj585/11n01/0644.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI57746 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 58062 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0645.in.57994.qcin.1" "/scratch/jj585/11n01/0645.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI58013 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 58314 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0646.in.58246.qcin.1" "/scratch/jj585/11n01/0646.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI58265 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 58523 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0647.in.58455.qcin.1" "/scratch/jj585/11n01/0647.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI58474 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 58769 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0648.in.58702.qcin.1" "/scratch/jj585/11n01/0648.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI58721 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 58974 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0649.in.58907.qcin.1" "/scratch/jj585/11n01/0649.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI58926 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 59211 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0650.in.59143.qcin.1" "/scratch/jj585/11n01/0650.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI59162 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 59441 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0651.in.59373.qcin.1" "/scratch/jj585/11n01/0651.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI59392 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 59667 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0652.in.59599.qcin.1" "/scratch/jj585/11n01/0652.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI59618 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 59909 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0653.in.59841.qcin.1" "/scratch/jj585/11n01/0653.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI59860 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 60114 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0654.in.60046.qcin.1" "/scratch/jj585/11n01/0654.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI60065 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 60376 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0655.in.60308.qcin.1" "/scratch/jj585/11n01/0655.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI60327 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 60617 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0656.in.60549.qcin.1" "/scratch/jj585/11n01/0656.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI60568 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 60841 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0657.in.60773.qcin.1" "/scratch/jj585/11n01/0657.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI60792 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 61092 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0658.in.61024.qcin.1" "/scratch/jj585/11n01/0658.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI61043 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 61305 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0659.in.61237.qcin.1" "/scratch/jj585/11n01/0659.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI61256 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 61633 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0660.in.61564.qcin.1" "/scratch/jj585/11n01/0660.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI61583 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 61844 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0661.in.61777.qcin.1" "/scratch/jj585/11n01/0661.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI61796 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 62069 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0662.in.62001.qcin.1" "/scratch/jj585/11n01/0662.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI62020 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 62321 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0663.in.62253.qcin.1" "/scratch/jj585/11n01/0663.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI62272 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 62530 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0664.in.62462.qcin.1" "/scratch/jj585/11n01/0664.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI62481 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 62785 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0665.in.62717.qcin.1" "/scratch/jj585/11n01/0665.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI62736 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 63156 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0667.in.63088.qcin.1" "/scratch/jj585/11n01/0667.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI63107 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 63430 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0669.in.63363.qcin.1" "/scratch/jj585/11n01/0669.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI63382 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 63656 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0670.in.63589.qcin.1" "/scratch/jj585/11n01/0670.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI63608 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 64910 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0678.in.64843.qcin.1" "/scratch/jj585/11n01/0678.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI64862 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 65254 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0680.in.65187.qcin.1" "/scratch/jj585/11n01/0680.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI65206 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 66390 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0687.in.66323.qcin.1" "/scratch/jj585/11n01/0687.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI66342 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 67853 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0697.in.67786.qcin.1" "/scratch/jj585/11n01/0697.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI67805 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 68058 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0698.in.67990.qcin.1" "/scratch/jj585/11n01/0698.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI68009 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 68854 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0703.in.68787.qcin.1" "/scratch/jj585/11n01/0703.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI68806 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 69056 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0704.in.68989.qcin.1" "/scratch/jj585/11n01/0704.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI69008 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 69305 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0705.in.69238.qcin.1" "/scratch/jj585/11n01/0705.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI69257 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 69677 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0707.in.69610.qcin.1" "/scratch/jj585/11n01/0707.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI69629 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 70017 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0709.in.69950.qcin.1" "/scratch/jj585/11n01/0709.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI69969 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 70274 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0710.in.70207.qcin.1" "/scratch/jj585/11n01/0710.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI70226 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 70481 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0711.in.70414.qcin.1" "/scratch/jj585/11n01/0711.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI70433 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 70699 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0712.in.70632.qcin.1" "/scratch/jj585/11n01/0712.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI70651 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 70940 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0713.in.70873.qcin.1" "/scratch/jj585/11n01/0713.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI70892 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 71246 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0714.in.71179.qcin.1" "/scratch/jj585/11n01/0714.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI71198 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 71485 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0715.in.71417.qcin.1" "/scratch/jj585/11n01/0715.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI71436 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 71706 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0716.in.71639.qcin.1" "/scratch/jj585/11n01/0716.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI71658 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 71928 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0717.in.71861.qcin.1" "/scratch/jj585/11n01/0717.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI71880 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 72190 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0718.in.72122.qcin.1" "/scratch/jj585/11n01/0718.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI72141 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 72416 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0719.in.72349.qcin.1" "/scratch/jj585/11n01/0719.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI72368 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 72626 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0720.in.72559.qcin.1" "/scratch/jj585/11n01/0720.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI72578 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 72875 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0721.in.72807.qcin.1" "/scratch/jj585/11n01/0721.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI72826 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 73085 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0722.in.73017.qcin.1" "/scratch/jj585/11n01/0722.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI73036 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 73328 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0723.in.73261.qcin.1" "/scratch/jj585/11n01/0723.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI73280 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 73556 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0724.in.73489.qcin.1" "/scratch/jj585/11n01/0724.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI73508 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 73754 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0725.in.73687.qcin.1" "/scratch/jj585/11n01/0725.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI73706 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 73997 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0726.in.73930.qcin.1" "/scratch/jj585/11n01/0726.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI73949 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 74210 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0727.in.74143.qcin.1" "/scratch/jj585/11n01/0727.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI74162 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 74452 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0728.in.74384.qcin.1" "/scratch/jj585/11n01/0728.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI74403 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 74686 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0729.in.74619.qcin.1" "/scratch/jj585/11n01/0729.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI74638 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 74900 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0730.in.74833.qcin.1" "/scratch/jj585/11n01/0730.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI74852 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 75207 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0731.in.75139.qcin.1" "/scratch/jj585/11n01/0731.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI75158 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 75433 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0732.in.75366.qcin.1" "/scratch/jj585/11n01/0732.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI75385 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 75650 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0733.in.75583.qcin.1" "/scratch/jj585/11n01/0733.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI75602 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 75881 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0734.in.75814.qcin.1" "/scratch/jj585/11n01/0734.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI75833 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 76104 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0735.in.76037.qcin.1" "/scratch/jj585/11n01/0735.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI76056 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 76306 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0736.in.76239.qcin.1" "/scratch/jj585/11n01/0736.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI76258 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 76559 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0737.in.76491.qcin.1" "/scratch/jj585/11n01/0737.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI76510 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 76760 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0738.in.76693.qcin.1" "/scratch/jj585/11n01/0738.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI76712 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 77011 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0739.in.76943.qcin.1" "/scratch/jj585/11n01/0739.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI76962 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 77236 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0740.in.77169.qcin.1" "/scratch/jj585/11n01/0740.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI77188 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 81182 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0768.in.81115.qcin.1" "/scratch/jj585/11n01/0768.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI81134 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 81404 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0769.in.81337.qcin.1" "/scratch/jj585/11n01/0769.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI81356 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 81631 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0770.in.81563.qcin.1" "/scratch/jj585/11n01/0770.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI81582 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 82279 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0774.in.82211.qcin.1" "/scratch/jj585/11n01/0774.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI82230 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 82506 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0775.in.82439.qcin.1" "/scratch/jj585/11n01/0775.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI82458 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 83173 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0779.in.83106.qcin.1" "/scratch/jj585/11n01/0779.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI83125 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 83381 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0780.in.83305.qcin.1" "/scratch/jj585/11n01/0780.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI83324 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 83905 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0783.in.83838.qcin.1" "/scratch/jj585/11n01/0783.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI83857 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 84121 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0784.in.84053.qcin.1" "/scratch/jj585/11n01/0784.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI84072 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 84357 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0785.in.84289.qcin.1" "/scratch/jj585/11n01/0785.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI84308 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 84610 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0786.in.84542.qcin.1" "/scratch/jj585/11n01/0786.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI84561 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 84968 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0788.in.84900.qcin.1" "/scratch/jj585/11n01/0788.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI84919 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 85337 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0790.in.85270.qcin.1" "/scratch/jj585/11n01/0790.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI85289 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 85559 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0791.in.85491.qcin.1" "/scratch/jj585/11n01/0791.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI85510 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 85924 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0793.in.85857.qcin.1" "/scratch/jj585/11n01/0793.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI85876 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 86167 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0794.in.86100.qcin.1" "/scratch/jj585/11n01/0794.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI86119 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 86375 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0795.in.86307.qcin.1" "/scratch/jj585/11n01/0795.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI86326 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 86628 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0796.in.86561.qcin.1" "/scratch/jj585/11n01/0796.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI86580 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 86857 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0797.in.86790.qcin.1" "/scratch/jj585/11n01/0797.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI86809 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 87086 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0798.in.87018.qcin.1" "/scratch/jj585/11n01/0798.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI87037 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 87337 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0799.in.87269.qcin.1" "/scratch/jj585/11n01/0799.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI87288 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 87551 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0800.in.87483.qcin.1" "/scratch/jj585/11n01/0800.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI87502 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 87814 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0801.in.87747.qcin.1" "/scratch/jj585/11n01/0801.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI87766 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 88018 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0802.in.87950.qcin.1" "/scratch/jj585/11n01/0802.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI87969 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 88259 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0803.in.88191.qcin.1" "/scratch/jj585/11n01/0803.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI88210 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 88512 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0804.in.88444.qcin.1" "/scratch/jj585/11n01/0804.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI88463 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 88720 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0805.in.88652.qcin.1" "/scratch/jj585/11n01/0805.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI88671 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 88972 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0806.in.88904.qcin.1" "/scratch/jj585/11n01/0806.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI88923 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 89210 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0807.in.89141.qcin.1" "/scratch/jj585/11n01/0807.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI89160 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 89445 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0808.in.89377.qcin.1" "/scratch/jj585/11n01/0808.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI89396 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 89698 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0809.in.89631.qcin.1" "/scratch/jj585/11n01/0809.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI89650 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 89915 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0810.in.89847.qcin.1" "/scratch/jj585/11n01/0810.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI89866 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 90210 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0811.in.90143.qcin.1" "/scratch/jj585/11n01/0811.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI90162 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 90422 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0812.in.90354.qcin.1" "/scratch/jj585/11n01/0812.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI90373 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 90657 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0813.in.90588.qcin.1" "/scratch/jj585/11n01/0813.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI90607 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 90909 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0814.in.90841.qcin.1" "/scratch/jj585/11n01/0814.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI90860 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 92483 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0825.in.92416.qcin.1" "/scratch/jj585/11n01/0825.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI92435 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 93569 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0832.in.93502.qcin.1" "/scratch/jj585/11n01/0832.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI93521 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 94491 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0838.in.94423.qcin.1" "/scratch/jj585/11n01/0838.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI94442 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 95527 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0845.in.95460.qcin.1" "/scratch/jj585/11n01/0845.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI95479 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 95913 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0847.in.95846.qcin.1" "/scratch/jj585/11n01/0847.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI95865 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 96415 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0850.in.96348.qcin.1" "/scratch/jj585/11n01/0850.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI96367 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 96923 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0853.in.96856.qcin.1" "/scratch/jj585/11n01/0853.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI96875 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 97434 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0856.in.97367.qcin.1" "/scratch/jj585/11n01/0856.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI97386 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 97801 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0858.in.97734.qcin.1" "/scratch/jj585/11n01/0858.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI97753 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 98025 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0859.in.97957.qcin.1" "/scratch/jj585/11n01/0859.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI97976 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 98254 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0860.in.98186.qcin.1" "/scratch/jj585/11n01/0860.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI98205 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 98518 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0861.in.98450.qcin.1" "/scratch/jj585/11n01/0861.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI98469 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 98743 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0862.in.98676.qcin.1" "/scratch/jj585/11n01/0862.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI98695 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 99001 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0863.in.98934.qcin.1" "/scratch/jj585/11n01/0863.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI98953 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 99227 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0864.in.99160.qcin.1" "/scratch/jj585/11n01/0864.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI99179 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 99589 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0866.in.99522.qcin.1" "/scratch/jj585/11n01/0866.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI99541 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 99823 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0867.in.99755.qcin.1" "/scratch/jj585/11n01/0867.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI99774 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 100057 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0868.in.99989.qcin.1" "/scratch/jj585/11n01/0868.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI100008 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 100291 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0869.in.100222.qcin.1" "/scratch/jj585/11n01/0869.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI100241 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 100516 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0870.in.100448.qcin.1" "/scratch/jj585/11n01/0870.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI100467 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 100739 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0871.in.100671.qcin.1" "/scratch/jj585/11n01/0871.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI100690 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 100996 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0872.in.100928.qcin.1" "/scratch/jj585/11n01/0872.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI100947 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 101218 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0873.in.101151.qcin.1" "/scratch/jj585/11n01/0873.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI101170 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 101453 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0874.in.101385.qcin.1" "/scratch/jj585/11n01/0874.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI101404 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 101681 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0875.in.101613.qcin.1" "/scratch/jj585/11n01/0875.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI101632 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 101904 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0876.in.101837.qcin.1" "/scratch/jj585/11n01/0876.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI101856 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 102133 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0877.in.102065.qcin.1" "/scratch/jj585/11n01/0877.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI102084 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 102357 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0878.in.102290.qcin.1" "/scratch/jj585/11n01/0878.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI102309 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 102588 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0879.in.102520.qcin.1" "/scratch/jj585/11n01/0879.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI102539 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 102825 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0880.in.102757.qcin.1" "/scratch/jj585/11n01/0880.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI102776 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 103074 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0881.in.103006.qcin.1" "/scratch/jj585/11n01/0881.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI103025 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 103305 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0882.in.103238.qcin.1" "/scratch/jj585/11n01/0882.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI103257 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 103559 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0883.in.103492.qcin.1" "/scratch/jj585/11n01/0883.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI103511 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 103803 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0884.in.103736.qcin.1" "/scratch/jj585/11n01/0884.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI103755 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 104014 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0885.in.103947.qcin.1" "/scratch/jj585/11n01/0885.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI103966 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 104249 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0886.in.104182.qcin.1" "/scratch/jj585/11n01/0886.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI104201 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 104482 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0887.in.104414.qcin.1" "/scratch/jj585/11n01/0887.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI104433 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 104709 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0888.in.104642.qcin.1" "/scratch/jj585/11n01/0888.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI104661 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 107161 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0905.in.107094.qcin.1" "/scratch/jj585/11n01/0905.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI107113 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 109029 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0918.in.108962.qcin.1" "/scratch/jj585/11n01/0918.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI108981 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 109421 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0920.in.109354.qcin.1" "/scratch/jj585/11n01/0920.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI109373 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 110197 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0925.in.110130.qcin.1" "/scratch/jj585/11n01/0925.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI110149 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 110411 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0926.in.110344.qcin.1" "/scratch/jj585/11n01/0926.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI110363 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 110659 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0927.in.110592.qcin.1" "/scratch/jj585/11n01/0927.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI110611 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 110873 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0928.in.110805.qcin.1" "/scratch/jj585/11n01/0928.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI110824 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 111256 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0930.in.111189.qcin.1" "/scratch/jj585/11n01/0930.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI111208 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 111893 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0934.in.111826.qcin.1" "/scratch/jj585/11n01/0934.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI111845 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 112242 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0936.in.112175.qcin.1" "/scratch/jj585/11n01/0936.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI112194 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 112494 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0937.in.112427.qcin.1" "/scratch/jj585/11n01/0937.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI112446 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 112697 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0938.in.112630.qcin.1" "/scratch/jj585/11n01/0938.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI112649 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 112984 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0939.in.112916.qcin.1" "/scratch/jj585/11n01/0939.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI112935 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 113353 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0941.in.113284.qcin.1" "/scratch/jj585/11n01/0941.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI113303 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 113561 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0942.in.113494.qcin.1" "/scratch/jj585/11n01/0942.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI113513 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 113803 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0943.in.113735.qcin.1" "/scratch/jj585/11n01/0943.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI113754 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 114011 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0944.in.113943.qcin.1" "/scratch/jj585/11n01/0944.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI113962 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 114256 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0945.in.114189.qcin.1" "/scratch/jj585/11n01/0945.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI114208 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 114483 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0946.in.114416.qcin.1" "/scratch/jj585/11n01/0946.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI114435 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 114692 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0947.in.114624.qcin.1" "/scratch/jj585/11n01/0947.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI114643 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 114943 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0948.in.114875.qcin.1" "/scratch/jj585/11n01/0948.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI114894 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 115151 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0949.in.115083.qcin.1" "/scratch/jj585/11n01/0949.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI115102 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 115397 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0950.in.115330.qcin.1" "/scratch/jj585/11n01/0950.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI115349 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 115632 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0951.in.115564.qcin.1" "/scratch/jj585/11n01/0951.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI115583 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 115855 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0952.in.115788.qcin.1" "/scratch/jj585/11n01/0952.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI115807 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 116107 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0953.in.116040.qcin.1" "/scratch/jj585/11n01/0953.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI116059 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 116313 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0954.in.116244.qcin.1" "/scratch/jj585/11n01/0954.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI116263 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 116582 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0955.in.116515.qcin.1" "/scratch/jj585/11n01/0955.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI116534 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 116817 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0956.in.116749.qcin.1" "/scratch/jj585/11n01/0956.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI116768 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 117104 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0957.in.117037.qcin.1" "/scratch/jj585/11n01/0957.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI117056 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 117360 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0958.in.117292.qcin.1" "/scratch/jj585/11n01/0958.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI117311 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 117573 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0959.in.117505.qcin.1" "/scratch/jj585/11n01/0959.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI117524 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 117826 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0960.in.117758.qcin.1" "/scratch/jj585/11n01/0960.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI117777 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 118049 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0961.in.117982.qcin.1" "/scratch/jj585/11n01/0961.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI118001 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 118681 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0965.in.118614.qcin.1" "/scratch/jj585/11n01/0965.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI118633 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 118913 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0966.in.118846.qcin.1" "/scratch/jj585/11n01/0966.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI118865 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 120439 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0977.in.120372.qcin.1" "/scratch/jj585/11n01/0977.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI120391 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 122152 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0989.in.122085.qcin.1" "/scratch/jj585/11n01/0989.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI122104 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 122728 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0992.in.122661.qcin.1" "/scratch/jj585/11n01/0992.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI122680 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 122937 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0993.in.122869.qcin.1" "/scratch/jj585/11n01/0993.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI122888 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 123304 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0995.in.123237.qcin.1" "/scratch/jj585/11n01/0995.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI123256 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 123559 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0996.in.123492.qcin.1" "/scratch/jj585/11n01/0996.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI123511 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+/opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem.ch_p4: line 243: 123768 Aborted                 (core dumped) /opt/software/qchem/qchem-5.0.1//exe/qcprog.exe ".0997.in.123701.qcin.1" "/scratch/jj585/11n01/0997.save/" "</dev/null" -p4pg /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000/PI123720 -p4wd /home/fs01/jj585/SURROGATE/di_11n01/tmp_qchem0000
+rm: No match.
+rm: No match.
+slurmstepd: error: *** JOB 1300 ON vega06 CANCELLED AT 2018-01-07T19:07:15 ***

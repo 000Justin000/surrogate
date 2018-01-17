@@ -1,0 +1,6 @@
+This is a multi-thread run using 48 threads
+/opt/software/qchem/qchem-5.0.1//bin/parallel.csh,  , 1142c.in, 1, 0, /scratch/jj585/SOT1001/1142c.save/
+MPIRUN in parallel.csh is /opt/software/qchem/qchem-5.0.1//bin/mpi/mpirun_qchem
+P4_RSHCOMMAND in parallel.csh is rsh
+QCOUTFILE is 1142c.out
+Q-Chem machineFile is /opt/software/qchem/qchem-5.0.1//bin/mpi/machines 
